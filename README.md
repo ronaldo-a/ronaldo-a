@@ -4,7 +4,7 @@ My name is Ronaldo (yeah! just like the football player) and i'm a Civil Enginee
 
 At the moment i'm working at IBGE (Brazilian Institute of Geography and Statistics), studying fullstackoverflow web development at Driven Education and getting amazed  everyday 😯 by the power of programming.
 
-In case you wanna talk, you cand find me at ronaldoandrade966@gmail.com. Send me a hello and we can talk about programming, sports(i love almost all of them), Harry Potter or anything else.
+In case you wanna talk, you cand find me at ronaldoandrade966@gmail.com. Send me a hello and we can talk about programming, sports (i love almost all of them), Harry Potter or anything else.
 
 <!--
 **ronaldo-a/ronaldo-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
