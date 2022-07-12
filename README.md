@@ -4,7 +4,7 @@ My name is Ronaldo (yeah! just like the football player) and i'm a Civil Enginee
 
 At the moment i'm working at IBGE (Brazilian Institute of Geography and Statistics), studying fullstackoverflow web development at Driven Education and getting amazed  everyday 😯 by the power of programming.
 
-By now, i have been working with HMTL, CSS and Javascript.   
+By now, i have been working with <img src="[{BadgeURLHere}](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)" />, CSS and Javascript.   
 
 In case you wanna talk, you cand find me at ronaldoandrade966@gmail.com. Send me a hello and we can talk about programming, sports (i love almost all of them), Harry Potter or anything else.                                                                                                                       
 
