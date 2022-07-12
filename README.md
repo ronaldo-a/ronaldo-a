@@ -1,6 +1,6 @@
 Hi, everyone! 👋
 
-My name is Ronaldo (yeah! just like the football player) and i'm a Civil Engineer (and future web developer for sure) who wich was presented to the fascinating world of programming and decided to take the trip into it.
+My name is Ronaldo (yeah! just like the football player) and i'm a Civil Engineer (and future web developer for sure) from Brazil who wich was presented to the fascinating world of programming and decided to take the trip into it.
 
 At the moment i'm working at IBGE (Brazilian Institute of Geography and Statistics), studying fullstackoverflow web development at Driven Education and getting amazed  everyday 😯 by the power of programming.
 
