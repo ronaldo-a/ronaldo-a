@@ -2,11 +2,14 @@ Hi, everyone! 👋
 
 My name is Ronaldo (yeah! just like the football player) and i'm a Civil Engineer (and future web developer for sure) from Brazil who wich was presented to the fascinating world of programming and decided to take the trip into it.
 
-At the moment i'm working at IBGE (Brazilian Institute of Geography and Statistics), studying fullstackoverflow web development at Driven Education and getting amazed  everyday 😯 by the power of programming.
+- 🔭 I’m currently working at IBGE (Brazilian Institute of Geography and Statistics) 
+- 🌱 I’m currently learning fullstack web development at Driven Education 
 
-By now, i have been working with <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />.
+By now, i have been working with <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
 
-In case you wanna talk, you cand find me at ronaldoandrade966@gmail.com. Send me a hello and we can talk about programming, sports (i love almost all of them), Harry Potter or anything else.
+In case you wanna talk, just send me a hello and we can talk about programming, sports (i love almost all of them), Harry Potter or anything else.
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronaldo-a&show_icons=true&locale=en&layout=compact" alt="ronaldo-a" /></p> <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ronaldo-a&show_icons=true&locale=en" alt="ronaldo-a" /></p>
 
 <!--
 **ronaldo-a/ronaldo-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
