@@ -10,8 +10,7 @@ By now, i have been working with <img src="https://raw.githubusercontent.com/dev
 
 In case you wanna talk, just send me a hello and we can talk about programming, sports (i love almost all of them), Harry Potter or anything else.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronaldo-a&show_icons=true&locale=en&layout=compact" alt="ronaldo-a" /></p> <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ronaldo-a&show_icons=true&theme=radical&bg_color=000000" alt="ronaldo-a" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ronaldo-a&show_icons=true&theme=github_dark&card_width=50" alt="ronaldo-a" /></p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronaldo-a&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="ronaldo-a" /></p>
 
 
 <!--![snake gif](https://github.com/ronaldo-a/ronaldo-a/blob/output/github-contribution-grid-snake.gif)
