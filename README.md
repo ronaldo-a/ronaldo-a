@@ -12,6 +12,8 @@ In case you wanna talk, just send me a hello and we can talk about programming, 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronaldo-a&show_icons=true&locale=en&layout=compact" alt="ronaldo-a" /></p> 
 
 ![snake gif](https://github.com/ronaldo-a/ronaldo-a/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 <!--
 **ronaldo-a/ronaldo-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
